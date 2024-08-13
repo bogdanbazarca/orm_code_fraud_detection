@@ -3,10 +3,10 @@
 # **ORM Stack to deploy an A10 shape, one GPU different scenarios for financial services**
 
 - [Intallation](#installation)
-- [Note](##NOTE)
-- [Systems_monitoring](##Systems_monitoring)
-- [Jupyter_access](##Jupyter_access)
-- [Fraud_Detection_models](##Fraud_Detection_models)
+- [Note](#note)
+- [Systems_monitoring](#systems_monitoring)
+- [Jupyter_access](#jupyter_access)
+- [Fraud_Detection_models]((#fraud_detection_models)
 
 ## Installation
 - **you can use Resource Manager from OCI console to upload the code from here**
@@ -18,7 +18,7 @@
 ## NOTE
 - **the code deploys an A10 shape with one GPU Shape**
 - **based on your need you have the option to either create a new VCN and subnet or you ca use an existing VCN and a subnet where the VM will be deployed**
--  **it will add a freeform TAG : "GPU_TAG"= "A10-1"**
+- **it will add a freeform TAG : "GPU_TAG"= "A10-1"**
 - **the boot vol is 500 GB**
 - **the cloudinit will do all the steps needed to download and install all Jupyter notebooks and needed Python packages**
 
