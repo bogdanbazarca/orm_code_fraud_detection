@@ -10,7 +10,7 @@
 
 ## Installation
 - **you can use Resource Manager from OCI console to upload the code from here**
-- **once the instance is created, wait the cloud init completion and then you can allow firewall access to be able launch the jupyter notebook interface, commands detailed on both Oracle Linux and Ubuntu in the [Jupyter_access](##Jupyter_access)**
+- **once the instance is created, wait the cloud init completion and then you can allow firewall access to be able launch the jupyter notebook interface, commands detailed on both Oracle Linux and Ubuntu in the [Jupyter_access](#jupyter_access)**
 
 - **Jupyter notebook has already configured triton_example_kernel and domino_example_kernel environments** 
 - **to switch between them you can open each notebook then go to Kernel -> Change kernel -> Select [domino_example_kernel or triton_example_kernel]**
