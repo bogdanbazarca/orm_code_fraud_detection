@@ -6,7 +6,7 @@
 - [Note](#note)
 - [Systems_monitoring](#systems_monitoring)
 - [Jupyter_access](#jupyter_access)
-- [Fraud_Detection_models]((#fraud_detection_models)
+- [Fraud_Detection_models](#fraud_detection_models)
 
 ## Installation
 - **you can use Resource Manager from OCI console to upload the code from here**
